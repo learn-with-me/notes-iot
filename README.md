@@ -62,5 +62,11 @@ Integration with the Internet implies that devices will use an IP address as a d
 * Ethernet
 * Power line communication \(PLC\)
 
+### References
+
+```
+https://en.wikipedia.org/wiki/Internet_of_things
+```
+
 
 

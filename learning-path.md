@@ -21,6 +21,22 @@
 * Voltage regulator \(7805a\)
 * Potentiometer
 
+### Explore Tools
+
+```
+https://www.blynk.cc/
+https://www.nodemcu.com/index_en.html
+https://thingspeak.com/
+
+Electronic Circuit Design
+https://www.circuitlab.com/
+https://www.circuit-diagram.org/
+https://www.tinkercad.com/circuits
+https://circuitmaker.com/
+http://www.partsim.com/simulator
+https://www.falstad.com/circuit/
+```
+
 ### Explore ordering locations
 
 ```

@@ -44,6 +44,7 @@ PCB Boards
 https://www.pcbbasket.com/
 
 Electronic Circuit Design
+https://www.schematics.com/
 https://www.circuitlab.com/
 https://www.circuit-diagram.org/
 https://www.tinkercad.com/circuits

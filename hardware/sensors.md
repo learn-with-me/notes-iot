@@ -14,6 +14,8 @@ Example: Temperature of soil
 * **IC \(semiconductor\):** They are linear devices where the conductivity of the semiconductor increases linearly and it takes advantage of the variable resistance properties of semiconductor materials. It can provide a direct temperature reading in digital form, especially at low temperatures.
 * **Infrared Sensors:** It detects temperature by intercepting a portion of emitted infrared energy of the object or substance, and sensing its intensity, can be used to measure temperature of solids and liquids only, Not possible to use it on gases because of their transparent nature.
 
+Melexis MLX90614, Environdata TA40 Series, Geokon 4700 are the top picks for temperature sensors in industrial IoT applications.
+
 #### Proximity Sensor
 
 Detects the presence or absence of a nearby object, or properties of that object, and converts it into signal which can be easily read by user or a simple electronic instrument without getting in contact with them.
@@ -27,6 +29,10 @@ Detects the presence or absence of a nearby object, or properties of that object
 #### Pressure Sensor
 
 Device that senses pressure and converts it into an electric signal. There are plenty of devices that rely on liquid or other forms of pressure. It is easy to detect any fluctuation or drops in pressure.
+
+* Piezo Sensors
+
+Pressure Systems Series 960, 970, Paroscientific Inc. Series 1000, 2000, 6000, Environdata BP10 Series are some of the most commonly used pressure sensors in industrial IoT applications.
 
 #### Water quality Sensor
 
@@ -84,11 +90,15 @@ Device that senses smoke \(airborne particulates & gases \) and it’s level. Sm
 * **Optical smoke Sensor \(Photoelectric\):** Optical smoke sensor uses the light scatter principle trigger to occupants.
 * **Ionization smoke Sensor:** Ionization smoke sensor works on the principle of ionization, kind of chemistry to detect molecules causing a trigger alarm.
 
+Zigbee or WiFi enabled sensors cost anything between $2 to $10 depending on the quality.
+
 #### Infrared \(IR\) Sensor
 
 Used to sense certain characteristics of its surroundings by either emitting or detecting infrared radiation. It is also capable of measuring the heat being emitted by the objects. Used especially in Healthcare as they make monitoring of blood flow and blood pressure simple. Other common use includes Home appliances & remote control, Breath analysis, Infrared vision \(i.e. visualize heat leaks in electronics, monitor blood flow, art historians to see under layers of paint\), wearable electronics, optical communication, non-contact based temperature measurements, Automotive blind-angle detection.
 
 They are also a great tool for ensuring high-level security in your home. They can detect a variety of chemicals and heat leaks. They are going to play an important role in the smart home industry, as they have a wide-range of applications.
+
+Asahi Kasei Microdevices \(AKM\), Murata, Melexis MLX90614, Intersil ISL29021 are among the few IOT IR sensors used in Industries.
 
 #### Level Sensor
 
@@ -158,6 +168,8 @@ These sensors usually follow the use of temperature sensors, as many manufacturi
 Measures the physical quantity of light rays and convert it into electrical signal which can be easily readable by user or an electronic instrument/device is called optical sensor. Optical sensors are loved by IoT experts, as they are practical for measuring different things simultaneously. The technology behind this sensor allows it to monitor electromagnetic energy, which includes, electricity, light and so on.
 
 These sensors have found use in healthcare, environment monitoring, energy, aerospace and many more industries. With their presence oil companies, pharmaceutical companies and mining companies are in a much better position to track environmental changes while keeping their employees safe. Their main use can be found in Ambient light detection, digital optical switches, optical fibres communications,due to Electrical isolation best suited for oil and gas applications, civil and transportation fields, High speed network systems, elevator door control, assembly line part counters and safety systems.
+
+Vishay’s VCNL4020X01 and TCxT1600X01 are optical sensors designed specifically for the industrial IoT applications.
 
 ###### Sub-categories
 

@@ -5,5 +5,6 @@
 * [Enterprise View](enterprise-view.md)
 * [Hardware](hardware.md)
   * [Sensors](hardware/sensors.md)
+  * [Actuators](hardware/actuators.md)
 * [Learning Path](learning-path.md)
 

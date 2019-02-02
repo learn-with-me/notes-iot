@@ -7,4 +7,5 @@
   * [Sensors](hardware/sensors.md)
   * [Actuators](hardware/actuators.md)
 * [Learning Path](learning-path.md)
+* [Random](random.md)
 

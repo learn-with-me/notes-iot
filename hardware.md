@@ -4,6 +4,7 @@
 
 * Arduino
 * Raspberry Pi
+* Microbit
 * Dragon Board
 
 #### Modules

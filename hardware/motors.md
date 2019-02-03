@@ -4,7 +4,7 @@
 
 These are part of a closed loop system, and are comprised of several parts, namely, a control circuit, servo motor, shaft, amplifier and either an encoder or resolver.
 
-High efficiency and great precision motors. You can control velocity, angle, position. Servo motor uses a regular motor and couples it with a sensor for positional feedback. The motor is controlled with an electronic signal, either analog or digital.
+High efficiency and great precision motors. You can control velocity, angle, position \(used in robotics\). Servo motor uses a regular motor and couples it with a sensor for positional feedback. The motor is controlled with an electronic signal, either analog or digital.
 
 ###### Classification of Servo motors
 
@@ -20,8 +20,4 @@ High efficiency and great precision motors. You can control velocity, angle, pos
 Stepper Motor
 
 DC Motor
-
-
-
-
 

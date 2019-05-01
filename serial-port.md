@@ -25,6 +25,14 @@ https://github.com/clokey/PublicCode/tree/master/MacOSXVirtualSerialPort
 #### References
 
 ```
+https://github.com/esp8266/Arduino
+https://github.com/adrianmihalko/ch340g-ch34g-ch34x-mac-os-x-driver
+https://esp8266.ru/esplorer/
+
+https://www.npmjs.com/package/johnny-five
+
+
+https://arduino-esp8266.readthedocs.io/en/latest/faq/a01-espcomm_sync-failed.html
 https://frightanic.com/iot/comparison-of-esp8266-nodemcu-development-boards/
 ```
 

@@ -9,4 +9,5 @@
   * [Motors](hardware/motors.md)
 * [Learning Path](learning-path.md)
 * [Random](random.md)
+* [Serial Port](serial-port.md)
 

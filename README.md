@@ -66,6 +66,10 @@ Integration with the Internet implies that devices will use an IP address as a d
 
 ```
 https://en.wikipedia.org/wiki/Internet_of_things
+
+https://www.home-assistant.io/
+Samsung SmartThings
+Wink
 ```
 
 
